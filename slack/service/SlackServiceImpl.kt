@@ -31,7 +31,7 @@ class SlackServiceImpl : SlackService {
 
         /*override fun getDefaultChannel(): String {
             if (!::defaultChannel.isInitialized) { // 프로퍼티 초기화 여부를 체크
-                defaultChannel = "C04RLR7VDUK" // 기본 채널 ID
+                defaultChannel = "adsdsdwds" // 기본 채널 ID
             }
             return defaultChannel
         }*/
